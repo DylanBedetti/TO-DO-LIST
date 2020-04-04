@@ -1,0 +1,25 @@
+#header {
+    background-color: #DB4C3F;
+    color: white;
+}
+
+#app {
+    display: none;
+}
+
+.btn {
+    display: none;
+}
+/* .btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+} */
+
+/* .list-group {
+    display: none;
+} */
